@@ -1,9 +1,9 @@
 //ATM
-package lab_6;
+package laba_6;
 
 import java.util.Scanner;
 
-public class Task_2 {
+public class Task2 {
     public static void main(String[] args) {
     int amount, numberOf5000Roubles, numberOf2000Roubles, numberOf1000Roubles, numberOf500Roubles,
             numberOf100Roubles, numberOf200Roubles, numberOf50Roubles;
