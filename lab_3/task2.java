@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Lab_3;
+package laba_3;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Student
  */
-public class Task_2 {
+public class Task2 {
     public static void main(String[] args){
         int result = 1;
         Scanner in = new Scanner(System.in);
