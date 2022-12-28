@@ -1,7 +1,7 @@
-package lab_2;
+package laba_2;
 
 public class Task3 {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         int a = 21;
         int b = 7;
         String s = "difference a - b = ";
@@ -11,3 +11,4 @@ public class Task3 {
         }
 
 }
+
