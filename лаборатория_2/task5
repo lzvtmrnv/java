@@ -1,7 +1,7 @@
-package lab_2;
+package laba_2;
 
 public class Task5 {
-    public static int a = 1;
+	public static int a = 1;
     public static int b = 3;
     public static int c = 9;
     public static int d = 27;
