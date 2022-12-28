@@ -1,7 +1,7 @@
 //project
-package lab_6;
+package laba_6;
 import java.util.Scanner;
-public class Task_4 {
+public class Task4 {
     public static void main(String[] args) {
         double dollars, rub;
         final double course = 72.12;
