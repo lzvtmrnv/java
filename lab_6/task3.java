@@ -1,9 +1,9 @@
 //credit
-package lab_6;
+package laba_6;
 
 import java.util.Scanner;
 
-public class Task_3 {
+public class Task3 {
     public static void main(String[] args) {
         final int months_per_year = 12;
 
@@ -11,7 +11,7 @@ public class Task_3 {
         int number_of_years;
 
         Scanner input = new Scanner(System.in);
-        System.out.println("ставка по кредиту (1-ипотека; 2-авто; 3-обрразование): ");
+        System.out.println("ставка по кредиту (1-ипотека; 2-авто; 3-образование): ");
         int stavka = input.nextInt();
         switch (stavka) {
             case 1:
