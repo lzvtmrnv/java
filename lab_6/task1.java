@@ -1,8 +1,8 @@
 //Timer
 
-package lab_6;
+package laba_6;
 
-public class Task_1 {
+public class Task1 {
     public static void main(String[] args) {
         final int nanoseconds_per_scond = 1000000000, milliseconds_per_second = 1000, seconds_per_minute = 60,
                 minutes_per_hour = 60, hours_per_day = 24;
