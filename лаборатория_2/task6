@@ -1,7 +1,7 @@
-package lab_2;
+package laba_2;
 
 public class Task6 {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         String a = "JavaRush";
         String b = "use anywhere";
 
@@ -10,6 +10,7 @@ public class Task6 {
         }
 
 }
+
 }
- 
+
  
