@@ -1,19 +1,21 @@
-package Lab_4;
+package laba_4;
 
-public class Task_2 {
-    public static void main(String[] args) {
-        double sum = 1;
-        for (int i = 2; i <= 10000; i++) {
-            if (i % 2 == 0) {
-                System.out.println(Math.pow(i, -1) + " minus ");
-                sum -= Math.pow(i, -1);
-            }
-            else {            
-            System.out.println(Math.pow(i, -1) + " plus ");
-            sum += Math.pow(i, -1);
-            }
-        }
-        System.out.println(sum);
-    }
-    
+import java.util.Scanner;
+public class Task2 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print("Enter m: ");
+		int m = input.nextInt();
+		double res = 0, n = 1;
+		for (int i = 1; i <= m; i++) {
+			if (i%2 == 0) {
+				res -= n/i;
+			}
+			else {
+				res += n/i;
+			}
+		} 
+		System.out.print("Result: " + res);
+	}
 }
