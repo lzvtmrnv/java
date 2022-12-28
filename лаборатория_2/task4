@@ -1,9 +1,9 @@
-package lab_2;
+package laba_2;
 
 import java.util.Scanner;
 
 public class Task4 {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("input a number: ");
         int x = in.nextInt();
@@ -14,4 +14,4 @@ public class Task4 {
         }
 
 }
- 
+
