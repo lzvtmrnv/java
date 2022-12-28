@@ -1,7 +1,7 @@
-package lab_2;
+package laba_2;
 
 public class Task7 {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         //        String s = "Happy";
         //        System.out.println("New Year");
         //        System.out.println("Happy New");
@@ -26,3 +26,4 @@ public class Task7 {
         }
 
 }
+
